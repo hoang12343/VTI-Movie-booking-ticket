@@ -1,0 +1,6 @@
+FE: 
+tailwind css, react js + vite js
+react-router-dom, axios, antd, react-redux-toolkid
+BE: 
+java Spring boot, JPA, auth(jwt), mailSender, Cloudinary(cloud), Lombok, validation
+SQL: PostgreSQL
